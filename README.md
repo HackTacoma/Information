@@ -26,16 +26,16 @@ Are you good at math, are you a GIS student or are you just an all round smart p
 HackTacoma needs its about page written. Teams need bios. If you are a writer and want to write about this event or if you want to write the documentation for this project come join us.
 
 ####Social Media :trollface:
-Are you a social media guru? HackTacoma needs a team to help grow its online presence. The team will also be reponsible for covering the 24 hour event on snapchat, periscope, twitter etc
+Are you a social media guru? HackTacoma needs a team to help grow its online presence. The team will also be responsible for covering the 24 hour event on snapchat, periscope, twitter etc.
 
-####Video/Actors :tv:
-We are going to make a quick 90 second commercial and upload it to youtube. We need a video team and participants willing to be actors
+####Video/ Actors/ Actresses :tv:
+We are going to make a quick 90 second commercial and upload it to youtube. We need a video team and participants willing to act.
 
 ####Photographers :camera:
-Someone needs to capture this event right? This team will be responsible for capturing this event and posting their work to this project
+Someone needs to capture this event right? This team will be responsible for capturing this event and posting their work to this project.
 
 ####Instructors :mortar_board:
-Not everyone is going to know how to use Git or Markdown. We will need at least one person willing to teach others how to use these tools
+Not everyone is going to know how to use Git or Markdown. We will need at least one person willing to teach others how to use these tools.
 
 ####Food :pizza: :cookie: :fries:
 Help feed the team! This will be a 24 hour hackathon so any food provided will be huge. Can you cook, can you buy coffee :coffee:, anything will help thank you. 
