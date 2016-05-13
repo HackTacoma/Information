@@ -18,4 +18,4 @@ email: cloud[at]kevia.me
 cell: 253-666-5086
 
 ##Other Notes
-This will be a 24 hour hackathon. Participants will be allowed to stay overnight at the Surge Building. Bring sleeping bags or stay up all night. People who pull all nighters will be added to hour special contributors list. Come and join us, lets build something great for the city of Tacoma!
+This will be a 24 hour hackathon. Participants will be allowed to stay overnight at the Surge Building. Bring sleeping bags or stay up all night. People who pull all nighters will be added to our special contributors list. Come and join us, lets build something great for the city of Tacoma!
