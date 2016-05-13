@@ -8,7 +8,43 @@ General information, dates, location, times
 Orientation will be held at the [The Henry](http://www.thehenryapartments.com/photogallery.aspx) 1933 Dock St, Tacoma, WA 98402, on June 11 2016 @ 13:00 (1:00pm)
 
 ##Where/When (Hackathon)
-The Hackathon will start on June 18 2016 @ 00:00 (12:00am) at [Surge Tacoma](http://www.surgetacoma.com/) 2367 Tacoma Ave S, Tacoma, WA 98402. The Hackathon will end on June 19 2016 @ 00:00 (12:00am). 
+The Hackathon will start on June 18 2016 @ 00:00 (12:00am) at [Surge Tacoma](http://www.surgetacoma.com/) 2367 Tacoma Ave S, Tacoma, WA 98402. The Hackathon will end on June 19 2016 @ 00:00 (12:00am).
+
+##Project Needs
+This will be a comprehensive project. We need people to fill many positions. We will have teams for every aspect of this project. The following is a list of teams we need filled.
+
+####Developers :computer:
+A core team of developers. Skills we are looking for are HTML, CSS, Javascript, backend and frontend engineers. We will be using the [MEAN](http://mean.io/#!/) stack for this project. 
+
+####Designers/Artist :art:
+A team of UX/UI designers for the client facing side. Also we need logos, art and color templates.
+
+####Einsteins :bulb:
+Are you good at math, are you a GIS student or are you just an all round smart person. We will need problem solvers and critical thinkers.
+
+####Content Writers :pencil:
+HackTacoma needs its about page written. Teams need bios. If you are a writer and want to write about this event or if you want to write the documentation for this project come join us.
+
+####Social Media :trollface:
+Are you a social media guru? HackTacoma needs a team to help grow its online presence. The team will also be reponsible for covering the 24 hour event on snapchat, periscope, twitter etc
+
+####Video/Actors :tv:
+We are going to make a quick 90 second commercial and upload it to youtube. We need a video team and participants willing to be actors
+
+####Photographers :camera:
+Someone needs to capture this event right? This team will be responsible for capturing this event and posting their work to this project
+
+####Instructors :mortar_board:
+Not everyone is going to know how to use Git or Markdown. We will need at least one person willing to teach others how to use these tools
+
+####Food :pizza: :cookie: :fries:
+Help feed the team! This will be a 24 hour hackathon so any food provided will be huge. Can you cook, can you buy coffee :coffee:, anything will help thank you. 
+
+####Green Team/Volunteers :smile:
+If you just want to learn what its like to build an app or join this project we have room for you. Don't be afarid who knows you might end up contributing a great idea!
+
+##Why Should you Join?
+Remember any contributions you make will be tracked in Git. 
 
 ##Contact
 Contact project manager Kevia Cloud for any questions. 
