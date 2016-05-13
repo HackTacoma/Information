@@ -40,7 +40,7 @@ Not everyone is going to know how to use Git or Markdown. We will need at least 
 ####Food :pizza: :cookie: :fries:
 Help feed the team! This will be a 24 hour hackathon so any food provided will be huge. Can you cook, can you buy coffee :coffee:, anything will help thank you. 
 
-####Green Team/Volunteers :smile:
+####Green Team/ Volunteers :smile:
 If you just want to learn what its like to build an app or join this project we have room for you. Don't be afarid who knows you might end up contributing a great idea!
 
 ##Why Should you Join?
