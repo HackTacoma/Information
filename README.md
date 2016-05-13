@@ -44,7 +44,7 @@ Help feed the team! This will be a 24 hour hackathon so any food provided will b
 If you just want to learn what its like to build an app or join this project we have room for you. Don't be afarid who knows you might end up contributing a great idea!
 
 ##Why Should you Join?
-Remember any contributions you make will be tracked in Git. 
+Remember any contributions you make will be tracked in Git. This is a great way to build a portfolio and add to your resume. Having any contributions on an open source project, especially for a city, looks really good to any future employer.  
 
 ##Contact
 Contact project manager Kevia Cloud for any questions. 
