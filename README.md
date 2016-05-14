@@ -34,6 +34,9 @@ We are going to make a quick 90 second commercial and upload it to youtube. We n
 ####Photographers :camera:
 Someone needs to capture this event right? This team will be responsible for capturing this event and posting their work to this project.
 
+####Music :musical_note:
+We will need to fill the silence somehow. If you are a dj (bring your setup, serato, numark, technics) or play an instrument come down and play. Help keep people entertained while they take a break. 
+
 ####Instructors :mortar_board:
 Not everyone is going to know how to use Git or Markdown. We will need at least one person willing to teach others how to use these tools.
 
