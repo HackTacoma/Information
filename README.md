@@ -44,7 +44,7 @@ Not everyone is going to know how to use Git or Markdown. We will need at least 
 Help feed the team! This will be a 24 hour hackathon so any food provided will be huge. Can you cook, can you buy coffee :coffee:, anything will help thank you. 
 
 ####Green Team/ Volunteers :smile:
-If you just want to learn what its like to build an app or join this project we have room for you. Don't be afarid who knows you might end up contributing a great idea!
+If you just want to learn what its like to build an app or join this project we have room for you. We will be needing a hand setting up and cleaning too. Don't be afraid, who knows you might end up contributing a great idea!
 
 ##Why Should you Join?
 By joining you will have the opportunity to learn and gain hands on experience. Remember any contributions you make will be tracked in Git. This is a great way to build a portfolio and add to your resume. Having any contributions on an open source project, especially for a city, looks really good to any future employer.  
