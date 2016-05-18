@@ -7,8 +7,6 @@ We are going to solve the Broken Window problem in Tacoma.
 Broken Window Theory (wikipedia)
 The broken windows theory is a criminological theory of the norm-setting and signaling effect of urban disorder and vandalism on additional crime and anti-social behavior. The theory states that maintaining and monitoring urban environments to prevent small crimes such as vandalism, public drinking, and toll-jumping helps to create an atmosphere of order and lawfulness, thereby preventing more serious crimes from happening.
 
-The theory was introduced in a 1982 article by social scientists James Q. Wilson and George L. Kelling.[1] Since then it has been subject to great debate both within the social sciences and the public sphere. The theory has been used as a motivation for several reforms in criminal policy, including the controversial mass use of "stop, question, and frisk" by the New York City Police Department.
-
 ##How
 We are going to build a web app that allow users to upload images of graffiti, vandalism etc. Once the image is uploaded our app will then pin it on a map to give us a visual of problem areas in Tacoma. With this information we can then dispatch a volutneer team or the city to fix the issue.  
 
