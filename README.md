@@ -60,5 +60,9 @@ Contact project manager Kevia Cloud for any questions.
 
 :squirrel::e-mail: kevia**[at]**hacktacoma.org
 
+:bird: [Twitter](https://twitter.com/HackTacoma)
+
+website: [hacktacoma.org](hacktacoma.org)
+
 ##Other Notes
 This will be a 24 hour hackathon. Participants will be allowed to stay overnight at the Surge Building. Bring sleeping bags or stay up all night. People who pull all nighters will be added to our special contributors list. Come and join us, lets build something great for the city of Tacoma!
