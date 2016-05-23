@@ -20,7 +20,7 @@ The Hackathon will start on June 18, 2016 @ 00:00 (12:00am) at [Surge Tacoma](ht
 This will be a comprehensive project. We need people to fill many positions. We will have teams for every aspect of this project. The following is a list of teams we need filled.
 
 ####Developers :computer:
-A core team of developers. Skills we are looking for are HTML, CSS, Javascript, backend and frontend engineers. We will be using the [MEAN](http://mean.io/#!/) stack for this project. 
+A core team of developers. Skills we are looking for are HTML, CSS, Javascript, iOS (Swift | Obj-C), backend and frontend engineers.
 
 ####Designers/ Artist :art:
 A team of UX/UI designers for the client facing side. Also we need logos, art and color templates.
