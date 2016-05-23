@@ -47,9 +47,9 @@ We will need to fill the silence somehow. If you are a dj (bring your setup, ser
 Not everyone is going to know how to use Git or Markdown. We will need at least one person willing to teach others how to use these tools.
 
 ####Food :pizza: :cookie: :fries:
-Help feed the team! This will be a 24 hour hackathon so any food provided will be huge. Can you cook, can you buy coffee :coffee:, anything will help thank you. 
+Help feed the team! We won't be serving typical premade food like :fries: and :pizza:. Fresh food will be cooked on site to create a more open and personal atmosphere, so if you are interested in cooking or serving come on down. We appreciate those who help with ingredients as well :smile:. 
 
-####Green Team/ Volunteers :smile:
+####Green Team/ Volunteers :thumbsup:
 If you just want to learn what its like to build an app or join this project we have room for you. We will be needing a hand setting up and cleaning too. Don't be afraid, who knows you might end up contributing a great idea!
 
 ##Why Should you Join?
