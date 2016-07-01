@@ -10,11 +10,8 @@ The broken windows theory is a criminological theory of the norm-setting and sig
 ##How
 We are going to build a web app that allow users to upload images of graffiti, vandalism etc. Once the image is uploaded our app will then pin it on a map to give us a visual of problem areas in Tacoma. With this information we can then dispatch a volutneer team or the city to fix the issue.  
 
-##Where/ When (Orientation)
-Orientation will be held at the [The Henry](http://www.thehenryapartments.com/photogallery.aspx) 1933 Dock St, Tacoma, WA 98402, on June 11, 2016 @ 13:00 (1:00pm)
-
 ##Where/ When (Hackathon)
-The Hackathon will start on June 18, 2016 @ 00:00 (12:00am) at [Surge Tacoma](http://www.surgetacoma.com/) 2367 Tacoma Ave S, Tacoma, WA 98402. The Hackathon will end on June 19, 2016 @ 00:00 (12:00am).
+Next Hackathon date and time is TBD, check back soon, click here for highlights of the last hackathon.
 
 ##Project Needs
 This will be a comprehensive project. We need people to fill many positions. We will have teams for every aspect of this project. The following is a list of teams we need filled.
@@ -65,4 +62,4 @@ Contact project manager Kevia Cloud for any questions.
 website: [hacktacoma.org](hacktacoma.org)
 
 ##Other Notes
-This will be a 24 hour hackathon. Participants will be allowed to stay overnight at the Surge Building. Bring sleeping bags or stay up all night. People who pull all nighters will be added to our special contributors list. Come and join us, lets build something great for the city of Tacoma!
+Great job everyone! Our first hackathon was a successful. It was tough but all of you hung in there, and after 19 hours we completed a simple MVP. Next hackathon is TBD.
