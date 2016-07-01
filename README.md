@@ -11,7 +11,7 @@ The broken windows theory is a criminological theory of the norm-setting and sig
 We are going to build a web app that allow users to upload images of graffiti, vandalism etc. Once the image is uploaded our app will then pin it on a map to give us a visual of problem areas in Tacoma. With this information we can then dispatch a volutneer team or the city to fix the issue.  
 
 ##Where/ When (Hackathon)
-Next Hackathon date and time is TBD, check back soon, click here for highlights of the last hackathon.
+Next Hackathon date and time is TBD, check back soon, click [here](https://sites.google.com/a/hacktacoma.org/home/home/gallery) for highlights of the last hackathon.
 
 ##Project Needs
 This will be a comprehensive project. We need people to fill many positions. We will have teams for every aspect of this project. The following is a list of teams we need filled.
