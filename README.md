@@ -62,4 +62,4 @@ Contact project manager Kevia Cloud for any questions.
 website: [hacktacoma.org](hacktacoma.org)
 
 ##Other Notes
-Great job everyone! Our first hackathon was a successful. It was tough but all of you hung in there, and after 19 hours we completed a simple MVP. Next hackathon is TBD.
+Great job everyone! Our first hackathon was a success. It was tough but all of you hung in there, and after 19 hours we completed a simple MVP. Next hackathon is TBD.
