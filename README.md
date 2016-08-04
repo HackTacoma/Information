@@ -2,16 +2,17 @@
 General information, dates, location, times
 
 ##What
-We are going to solve the Broken Window problem in Tacoma. 
-
-Broken Window Theory (wikipedia)
-The broken windows theory is a criminological theory of the norm-setting and signaling effect of urban disorder and vandalism on additional crime and anti-social behavior. The theory states that maintaining and monitoring urban environments to prevent small crimes such as vandalism, public drinking, and toll-jumping helps to create an atmosphere of order and lawfulness, thereby preventing more serious crimes from happening.
+This time around we are going to focus on some basics. Setting up a local development, HTML, SASS, JS/jQuery. 
 
 ##How
-We are going to build a web app that allow users to upload images of graffiti, vandalism etc. Once the image is uploaded our app will then pin it on a map to give us a visual of problem areas in Tacoma. With this information we can then dispatch a volutneer team or the city to fix the issue.  
+Everyone will set up their own local environment and build their own version of a VR Web App, using basic HTML, SASS and JS/jQuery.
+
+We will also go over how to compile the preprocessor language SASS into CSS.
 
 ##Where/ When (Hackathon)
-Next Hackathon date and time is TBD, check back soon, click [here](https://sites.google.com/a/hacktacoma.org/home/home/gallery) for highlights of the last hackathon.
+Surge Tacoma 2367 Tacoma Ave S, WA 98402
+
+August 20, 2016
 
 ##Project Needs
 This will be a comprehensive project. We need people to fill many positions. We will have teams for every aspect of this project. The following is a list of teams we need filled.
@@ -62,4 +63,4 @@ Contact project manager Kevia Cloud for any questions.
 website: [hacktacoma.org](hacktacoma.org)
 
 ##Other Notes
-Great job everyone! Our first hackathon was a success. It was tough but all of you hung in there, and after 19 hours we completed a simple MVP. Next hackathon is TBD.
+We are going to be working on setting up local web servers, HTML, SASS, JS/jQuery and building a basic VR web app.
