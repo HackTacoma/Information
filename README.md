@@ -60,7 +60,7 @@ Contact project manager Kevia Cloud for any questions.
 
 :bird: [Twitter](https://twitter.com/HackTacoma)
 
-website: [hacktacoma.org](https://hacktacoma.org)
+website: [hacktacoma.org](http://hacktacoma.org)
 
 ##Other Notes
 We are going to be working on setting up local web servers, HTML, SASS, JS/jQuery and building a basic VR web app.
