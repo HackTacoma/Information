@@ -12,7 +12,7 @@ We will also go over how to compile the preprocessor language SASS into CSS.
 ##Where/ When (Hackathon)
 Surge Tacoma 2367 Tacoma Ave S, WA 98402
 
-August 20, 2016
+August 27, 2016
 
 ##Project Needs
 This will be a comprehensive project. We need people to fill many positions. We will have teams for every aspect of this project. The following is a list of teams we need filled.
