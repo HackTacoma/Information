@@ -10,9 +10,8 @@ Everyone will set up their own local environment and build their own version of 
 We will also go over how to compile the preprocessor language SASS into CSS.
 
 ##Where/ When (Hackathon)
-Surge Tacoma 2367 Tacoma Ave S, WA 98402
 
-August 27, 2016
+TBD
 
 ##Project Needs
 This will be a comprehensive project. We need people to fill many positions. We will have teams for every aspect of this project. The following is a list of teams we need filled.
@@ -63,4 +62,4 @@ Contact project manager Kevia Cloud for any questions.
 website: [hacktacoma.org](http://hacktacoma.org)
 
 ##Other Notes
-We are going to be working on setting up local web servers, HTML, SASS, JS/jQuery and building a basic VR web app.
+TBD
